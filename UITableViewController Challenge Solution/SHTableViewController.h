@@ -1,5 +1,5 @@
 //
-//  SHViewController.h
+//  SHTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Steven Howard on 7/17/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SHViewController : UIViewController
+@interface SHTableViewController : UITableViewController
 
 @end
